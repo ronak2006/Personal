@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 200%;
+}
+
+.top_container {
+    background-color: #e1f8f7;
+    position: relative;
+    padding: 10%;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #66BFBF;
+    width: 60%;
+    margin: 0 auto 0 auto;
+    height: 200px;
+    font-family: 'Sacramento', serif;
+    font-size: 4.6em;
+    margin-bottom: 1px;
+    font-weight: lighter;
+}
+
+h2 {
+
+    color: #66BFBF;
+    font-family: 'Montserrat', serif;
+ 
+    font-size: 1.25em;
+
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'montserrat', serif;
+    text-align: left;
+    font-size: 1em;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.middle_container {
+    height: 200px;
+
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    padding: 30px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 300px;
+    bottom: 270px;
+    margin: 40px;
+}
+
+.mountain {
+    position: relative;
+    bottom: -9;
+
+}
+
+.cloud1 {
+    position: absolute;
+    right: 15%;
+    top: 50px;
+    height: 70px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+#profile {
+    height: 175px;
+    width: 175px;
+    border-radius: 100px;
+
+}
+
+
+#Program{
+    
+    color: #66BFBF;
+    font-size: larger;
+}
+.link{
+    font-size: 1.5em;
+    color: lightblue;
+    margin-bottom: 30px;
+}
+.footer{
+    font-size: 20px;
+    text-decoration: none;
+    color: #11999E;
+}
+.btn{
+    font-size: 0.75em;
+    padding: 15px;
+    border-radius: 30px;
+    background:linear-gradient(#11cdd4,#11999e);
+    font-family: Arial;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.btn:hover {
+  background:linear-gradient(#30e3cb, #2bc4ad);
+    padding: 20px;
+    font-size: 0.80em;
+    transition: 0.2s;
+  
+}
+
+.skill-row{
+    margin: 100px auto 150px auto;
+    width: 50%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+
+p {
+    font-weight: normal;
+    font-size: large;
+    font-family: 'montserrat',serif;
+}
+.logic {
+    width: 25%;
+    float: right;
+    margin-right: 1em;
+}
+
+.-skills {
+   width: 25%;
+   float: left;
+   margin-right: 1em;
+}
+.copyright{
+    color: aliceblue;
+    font-size: 15px;
+}
+hr{
+    width: 9%;
+    border-style: none;
+    border-width: 10px;
+    border-top-style:dotted;
+    border-color:#9da2a2;
+    margin: 100px auto 100px auto;
+}
+.main{
+    width: 40%;
+    margin: auto;
+}
+.idk{
+    margin:30px auto;
+}
+.contact-me{
+    margin-bottom: 50px;
+}
